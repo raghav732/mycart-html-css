@@ -10,5 +10,5 @@ A Flipkart-style e-commerce homepage built using pure HTML and CSS.
 -Beginner friendly UI<br>
 
 ## Tech Stack
--HTML5
--CSS3
+-HTML5<br>
+-CSS3<br>
