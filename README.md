@@ -2,12 +2,12 @@
 <br>
 
 A Flipkart-style e-commerce homepage built using pure HTML and CSS.
-
+<br>
 ## Features
--Clean navbar with search
--Product cards layout
--Responsive structure
--Beginner friendly UI
+-Clean navbar with search<br>
+-Product cards layout<br>
+-Responsive structure<br>
+-Beginner friendly UI<br>
 
 ## Tech Stack
 -HTML5
